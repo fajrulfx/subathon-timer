@@ -15,6 +15,11 @@ Disclaimer: The code is simply a crap, because I just write it on rush for my pe
 - Create new folder and paste files into the folder
 - Shift + right click inside the folder, then "Open PowerShell window here" 
 - Install required packages using these code:
-npm install 
+```
+npm install socket.io-client@2.1
+npm install saweria
+npm install timer-stopwatch
+npm install cluster
+````
 
 (on progess)
