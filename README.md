@@ -22,4 +22,13 @@ npm install timer-stopwatch
 npm install cluster
 ````
 
-(on progess)
+# How to use
+- Open `subathon.js` file using text editor
+- Edit the data in line 12 to line 16 with your preferences and input your Streamlabs Socket API and Saweria Stream Key
+  - You can get your Streamlabs Socket API [from here](https://streamlabs.com/dashboard#/settings/api-settings) > API Tokens > Your Socket API Token
+  - You can get your Saweria Stream Key [from here](https://saweria.co/overlays) > URL > StreamKey
+- Create a text source in Streamlabs and connect to local file `clock.txt` inside the folder
+- Edit `target_time.txt` with the time you want to set in miliseconds (ex: if you want to set 1 hour timer, write 3600000)
+- Open Command Prompt in your folder (by typing `cmd` in your windows explorer adress)
+- `node subathon.js`
+- Voila! It works!
