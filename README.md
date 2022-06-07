@@ -1,6 +1,6 @@
 # subathon-timer
 
-***Update**: Most of the donation platform in Indonesia has already have a subathon timer feature, so this program is now useless. Unless you still want to add more time for every new Youtube membership, this program may still useful.*
+***Update:** Currently, most of Indonesia's donation platform already has a subathon timer feature, so this program is now useless. Unless you still want to add more time for every new Youtube membership, this program may be still useful.*
 
 This is my personal tool that I used on my Youtube subathon (subscriber marathon) challenge. The timer automatically increases if someone subscribes, joins membership, or makes a donation, so that I don't have to do it manually.
 
